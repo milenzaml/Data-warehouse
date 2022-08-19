@@ -1,0 +1,110 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>DW_airport</Database>
+    <Server>LAPTOP-DAT1L8G2\MSSQLSERVER19</Server>
+    <ConnectionString>Data Source=LAPTOP-DAT1L8G2\MSSQLSERVER19;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>E7CinKQWSWW+yaAN+34HjtRViM4=09.05.2021 15:50:5709.05.2021 15:50:57</TimeStamp>
+        <ID>
+          <String>DW Airport</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>vFPnxRpl5PPC5rOObAkHDsNUBKo=09.05.2021 16:00:0309.05.2021 16:00:03</TimeStamp>
+        <ID>
+          <String>DW Airport</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>Se+my2P3e9ukp8KN+nyx5XvNZW0=09.05.2021 16:01:2709.05.2021 16:00:18</TimeStamp>
+        <ID>
+          <String>Flight</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>gvaUSH8ffQou/2v0XsKbafHuAUA=09.05.2021 16:01:2709.05.2021 16:00:18</TimeStamp>
+        <ID>
+          <String>Airlines</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>IPWCGZTq6NOx6trxXY6uSe51IRQ=09.05.2021 16:01:2709.05.2021 16:00:18</TimeStamp>
+        <ID>
+          <String>Passenger</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>jcPwdlr7dJNbuFUMaUhYSFCAc7w=09.05.2021 16:10:1509.05.2021 16:00:18</TimeStamp>
+        <ID>
+          <String>Date</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>a8WITc/KWwGRKgpC77MKP2ymaRI=09.05.2021 16:02:4509.05.2021 16:00:18</TimeStamp>
+        <ID>
+          <String>Time</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>wWka6W6ZlPyBEugQx4Phzf3klRI=09.05.2021 20:17:3109.05.2021 16:00:18</TimeStamp>
+        <ID>
+          <String>Employee</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>5Vvl+ySHDE6YnV81/jZFrPQ1YCQ=09.05.2021 16:01:2709.05.2021 16:00:18</TimeStamp>
+        <ID>
+          <String>FLIGHT BOARDING</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>Fz1ysGaoCKMBNCA58/HEl2z17CU=09.05.2021 16:01:2709.05.2021 16:00:18</TimeStamp>
+        <ID>
+          <String>Junk</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>EmHK8Hit3c5QVIJI9hcbkC4d5p8=12.05.2021 12:47:3609.05.2021 16:00:181ahAk5BiGC3hysKp5csbW5rjdOg=11.05.2021 00:04:3909.05.2021 16:00:18</TimeStamp>
+        <ID>
+          <String>DW Airport</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>Qq/PtUQaoPRMDbwwupwDRnCW7tU=09.05.2021 15:49:4009.05.2021 15:49:40</TimeStamp>
+      <ID>
+        <String>DW_airport</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2021-05-12T10:47:53.34Z</LastDeployed>
+</DeploymentSnapshot>
