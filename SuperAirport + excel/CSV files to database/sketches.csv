@@ -1,0 +1,1001 @@
+FlightID,Destination,Flight length [hours],If constant,Airline_name
+60548047,Bratislava,7,0,"York, Weiss and Garner Airlines"
+2027036,New York,5,0,Strickland PLC Airlines
+63149562,Berlin,11,0,Campos LLC Airlines
+69211676,Podgorica,3,1,Clark LLC Airlines
+49781526,Helsinki,9,1,Torres Group Airlines
+18881899,Cracow,4,0,Morris-Kaufman Airlines
+71640365,Panama City,2,0,Green Group Airlines
+25766486,Teheran,2,1,Clark LLC Airlines
+4268895,Paris,9,0,"Howard, Robertson and Hamilton Airlines"
+59770589,Hamburg,12,0,"Smith, Williams and Mccall Airlines"
+62075459,San Marino,8,1,Butler and Sons Airlines
+40318561,Jakarta,10,1,Roberts-Brooks Airlines
+92755239,Panama City,5,1,Bean PLC Airlines
+78135338,Bogota,5,0,"Swanson, Avery and Navarro Airlines"
+89052075,Fiji,6,0,Butler-Hudson Airlines
+16611337,Nassau,6,0,Lopez PLC Airlines
+77538901,Taipei,9,1,Mack Ltd Airlines
+68986001,Barcelona,10,0,Rose-Thomas Airlines
+70205169,Tirana,8,0,"Fitzgerald, Ball and Hernandez Airlines"
+3353,Lima,3,1,"Perry, Harding and Baker Airlines"
+58833070,Turino,16,1,Rose-Thomas Airlines
+81888566,Munich,4,1,"Murphy, Walker and Huffman Airlines"
+7402821,Bornholm,15,1,Keller-Frazier Airlines
+33833149,Lima,9,1,"Rodriguez, Warner and Fisher Airlines"
+52012211,Frankfurt,11,0,Davis Inc Airlines
+44560782,Colombo,1,1,"Sullivan, Martin and Morris Airlines"
+43645374,Prague,10,0,Yang-Weaver Airlines
+314091,Turino,3,1,"Parker, Lee and Osborne Airlines"
+91094711,Skopje,12,0,"Caldwell, Martinez and Lopez Airlines"
+70875805,Rio de Janeiro,10,1,Mccarthy and Sons Airlines
+81495238,London,10,1,Lopez Inc Airlines
+50948918,Riga,9,0,Adkins-Rodriguez Airlines
+64021812,Jerusalem,2,1,"Carter, Smith and Huffman Airlines"
+91131102,Budapest,13,1,Romero-Hopkins Airlines
+37871574,Tirana,11,0,Jackson Inc Airlines
+63261196,Tokyo,5,0,"Perry, Harding and Baker Airlines"
+8364883,Bern,12,1,Martinez Ltd Airlines
+78831506,Tashkent,16,1,"Tran, Mcclure and Alvarez Airlines"
+34411704,Jerusalem,10,1,Sandoval Group Airlines
+93729062,Santo Domingo,4,1,Heath-Day Airlines
+70132274,Warsaw,1,0,Mccarthy and Sons Airlines
+9108240,Fiji,15,0,Yang-Weaver Airlines
+64329819,Katowice,5,1,Williams and Sons Airlines
+76075773,Lisbon,6,0,White Ltd Airlines
+86107044,Tokyo,4,0,Hancock-Howell Airlines
+99706678,Bogota,5,0,"Spencer, Simmons and Collins Airlines"
+27173497,Havana,1,0,Romero-Hopkins Airlines
+66030034,Tirana,9,0,"Swanson, Avery and Navarro Airlines"
+3173411,Copenhagen,7,1,Green Group Airlines
+9408937,Brussels,8,0,"Freeman, Mcintosh and Thomas Airlines"
+13675578,Bergamo,3,0,"Murphy, Walker and Huffman Airlines"
+87801361,Oslo,16,1,"Lawrence, Young and Powell Airlines"
+37746537,Teheran,14,0,"Hayes, Berry and Williams Airlines"
+75960292,Oslo,4,0,"Soto, Mcgee and Flores Airlines"
+29843848,Budapest,16,0,Clay Group Airlines
+41272152,Wellington,4,1,"Miller, Maynard and Butler Airlines"
+68202286,Jakarta,12,0,"Parker, Lee and Osborne Airlines"
+1403053,Girona,10,1,Glover-Johnson Airlines
+63937220,Jerusalem,5,1,"Williams, Day and Maldonado Airlines"
+48535021,Lisbon,13,0,Chase Group Airlines
+67870738,Tirana,15,1,Fritz Group Airlines
+77900456,Turino,12,0,Mccoy-Martinez Airlines
+49538489,Montevideo,3,0,"Molina, Wong and Sawyer Airlines"
+30171268,Nairobi,16,1,Johnson Ltd Airlines
+7552373,Kuala Lumpur,14,0,"Jones, Dawson and Cooper Airlines"
+2975689,Oslo,14,0,Lopez-Haas Airlines
+91844880,Port of Spain,14,1,"Craig, Burke and Stark Airlines"
+50543915,Seville,10,1,"Yoder, Robles and Sosa Airlines"
+37680718,Baku,10,1,"Carter, Smith and Huffman Airlines"
+35740148,Lima,15,1,"Pham, Kennedy and Middleton Airlines"
+36813308,Brasil,1,0,Fernandez LLC Airlines
+54075795,Bucharest,12,1,Mccarthy and Sons Airlines
+71833262,Buenos Aires,14,1,"Howard, Robertson and Hamilton Airlines"
+51958411,Zurich,8,1,"Pham, Kennedy and Middleton Airlines"
+67151615,Bornholm,9,0,"Frye, Hanson and Hickman Airlines"
+70369861,Tashkent,11,0,Green Group Airlines
+31773188,Warsaw,12,0,Fernandez LLC Airlines
+64579795,Doha,15,0,Rogers-Chandler Airlines
+91155467,Havana,5,0,"Johnson, Wright and Rodriguez Airlines"
+34471180,Buenos Aires,10,0,"Williams, Meyer and Willis Airlines"
+37834548,Ljubljana,14,0,"Frye, Hanson and Hickman Airlines"
+87722642,Munich,4,0,"Fleming, Sanders and Paul Airlines"
+84752963,Beijing,2,1,Newman Group Airlines
+72442685,Lisbon,3,1,Adams-Mccoy Airlines
+43916191,Singapore,2,1,Mccoy-Martinez Airlines
+48877893,Cairo,2,0,Campbell-Smith Airlines
+36568604,Bogota,12,1,Strickland PLC Airlines
+77306128,Tirana,2,0,"Williams, Meyer and Willis Airlines"
+4135999,Nassau,11,1,Carter Ltd Airlines
+13273699,Havana,11,0,"Johnson, Kirby and Robertson Airlines"
+54818880,Stockholm,10,1,Alvarez-Castillo Airlines
+8365330,Prague,7,0,Cox-Mendoza Airlines
+8487322,Kuala Lumpur,9,1,Strickland PLC Airlines
+4050537,Ljubljana,14,0,Hendrix LLC Airlines
+14849107,Tblisi,14,0,"Gould, Decker and Marquez Airlines"
+98646906,Lisbon,3,0,House-Bullock Airlines
+1965469,Abu Dhabi,5,1,Adkins-Rodriguez Airlines
+23337473,Nassau,8,1,"Meyer, Harvey and Johnson Airlines"
+69427503,Jerusalem,5,0,Fritz Group Airlines
+62561433,Minsk,12,1,Keller-Frazier Airlines
+48794657,Kuala Lumpur,13,0,Hall Inc Airlines
+49498127,Nassau,14,0,Nolan Inc Airlines
+57632551,Girona,4,1,Yang-Weaver Airlines
+14168260,Brasil,10,1,Russell-Kirby Airlines
+14429187,Ottawa,7,0,Reyes Inc Airlines
+69367298,Varna,1,0,Butler-Hudson Airlines
+73383215,Oslo,15,0,"Meyer, Taylor and Johnson Airlines"
+43550739,Tirana,11,0,"Good, Martin and Lloyd Airlines"
+82005993,Colombo,6,0,Lopez PLC Airlines
+71673417,Bangkok,9,1,Larsen and Sons Airlines
+649780,Lisbon,1,1,Cox-Mendoza Airlines
+79489263,Frankfurt,3,0,Conrad-West Airlines
+6661533,Toronto,8,0,"Johnson, Woods and White Airlines"
+97078739,Riga,10,0,Martinez Ltd Airlines
+54560055,Paris,10,1,Baker LLC Airlines
+58181218,Melbourne,15,0,Morris-Kaufman Airlines
+10452653,Turino,12,0,Lucero PLC Airlines
+64283937,Lima,5,0,"Caldwell, Martinez and Lopez Airlines"
+63613469,Helsinki,3,0,George and Sons Airlines
+9317451,Bergamo,6,1,Harper LLC Airlines
+74621880,Lisbon,16,0,Williams and Sons Airlines
+43938957,Stockholm,12,1,"Dickson, Rose and Frazier Airlines"
+64550947,Podgorica,4,0,Lucero PLC Airlines
+63463798,Berlin,2,0,"Frederick, Dixon and Ramirez Airlines"
+64635767,Frankfurt,12,1,Anderson-Davies Airlines
+83058592,Canberra,10,1,Butler and Sons Airlines
+4086307,Prague,8,1,Lopez PLC Airlines
+60704160,Alicante,2,1,"Brady, Mclaughlin and Brown Airlines"
+37083588,Hamburg,16,1,"Moore, Snow and Owen Airlines"
+47910065,Port of Spain,5,1,Ortiz-Brewer Airlines
+577915,San Diego,4,0,"Hayes, Berry and Williams Airlines"
+92102408,Denver,11,1,"Tran, Mcclure and Alvarez Airlines"
+21286032,Munich,5,0,"Barnes, Shaw and Wheeler Airlines"
+11477006,Budapest,8,0,Torres Group Airlines
+38467998,Wellington,14,0,Davis-Davis Airlines
+65365762,Bergamo,12,1,Larsen and Sons Airlines
+30497009,Madrid,8,0,"Simmons, Huerta and Shannon Airlines"
+14599002,Bern,9,1,"Simmons, Huerta and Shannon Airlines"
+59915652,Seville,2,0,Conrad-West Airlines
+58157534,Pretoria,7,0,Hicks-Smith Airlines
+30739925,Marseille,14,1,"Dickson, Rose and Frazier Airlines"
+99461942,Amsterdam,7,0,"Rodriguez, Warner and Fisher Airlines"
+13694975,Bratislava,16,0,Rhodes PLC Airlines
+9118157,Moscow,9,1,"Murphy, Walker and Huffman Airlines"
+79695268,Berlin,8,1,"Marks, Diaz and Park Airlines"
+6036454,Hamburg,1,0,"Frye, Hanson and Hickman Airlines"
+75743925,Ottawa,12,0,"Hernandez, Gonzalez and Schaefer Airlines"
+68609337,Kyoto,3,0,"Briggs, Rojas and Mitchell Airlines"
+96764565,Baku,16,0,Hunt LLC Airlines
+24734868,Fiji,9,0,Lucero PLC Airlines
+25577815,Bangkok,9,1,Hunt LLC Airlines
+75062385,Minsk,5,0,Strickland PLC Airlines
+40808390,Nassau,11,0,"Swanson, Avery and Navarro Airlines"
+42650935,Toronto,5,1,"Yoder, Robles and Sosa Airlines"
+32929058,Girona,8,0,"Rodriguez, Lewis and Blackburn Airlines"
+13599805,Tirana,4,1,Martin Group Airlines
+94242485,Saint Petersburg,15,0,Mckinney PLC Airlines
+40663579,San Marino,16,1,"Campbell, Peters and Mccoy Airlines"
+75080402,Taipei,7,1,Ford-Mills Airlines
+96940891,Melbourne,7,0,Davis-Newman Airlines
+49492880,Paris,12,1,Johnson-Mitchell Airlines
+6221010,Panama City,11,1,"Jones, Dawson and Cooper Airlines"
+43437214,San Diego,12,0,Ford-Mills Airlines
+6242459,Marseille,13,0,Sandoval Group Airlines
+48520614,Bern,4,0,Miller-Lane Airlines
+3411377,Jakarta,4,0,"Campbell, Peters and Mccoy Airlines"
+87062236,Doha,15,0,Fernandez LLC Airlines
+62895811,Ankara,9,1,Davis and Sons Airlines
+17938198,Tunis,3,1,Martin Group Airlines
+86193429,Riga,16,0,Torres Group Airlines
+59884699,Cracow,6,0,Obrien Group Airlines
+90266843,Girona,15,0,"Hale, Morales and Mitchell Airlines"
+45138447,Port of Spain,3,1,Alvarez-Castillo Airlines
+27179307,Madrid,13,0,"Briggs, Rojas and Mitchell Airlines"
+76646904,Wellington,9,1,"Fleming, Arroyo and Moore Airlines"
+86899338,Kampala,5,1,Cox-Mendoza Airlines
+12622382,Montevideo,9,1,"Mitchell, Vargas and Strickland Airlines"
+38646485,Tirana,9,1,"Meyer, Taylor and Johnson Airlines"
+20957254,Bergamo,12,0,"Johnson, Woods and White Airlines"
+50030798,Munich,6,1,Fritz Group Airlines
+87465150,Tirana,14,0,Hicks-Smith Airlines
+65627655,Ankara,12,1,Robinson-Wolf Airlines
+33850559,Dublin,9,1,Russell-Kirby Airlines
+62897914,Berlin,12,1,Morris-Kaufman Airlines
+9602823,Madrid,12,1,"Dickson, Rose and Frazier Airlines"
+96864036,Bern,11,0,"Taylor, Hatfield and Hogan Airlines"
+48519106,Turino,14,0,"Barnes, Shaw and Wheeler Airlines"
+66519843,Beijing,11,1,George and Sons Airlines
+7186141,Lisbon,2,1,Frederick-Hawkins Airlines
+62852654,Ljubljana,8,0,"Taylor, Clark and Shaffer Airlines"
+85430129,Tunis,14,1,Mathews Ltd Airlines
+10773123,Port Louis,5,0,Newman Group Airlines
+39104786,Nairobi,7,1,Morales-Thompson Airlines
+1554434,Teheran,8,1,Campos LLC Airlines
+89263235,Kampala,7,0,"Ryan, Smith and Francis Airlines"
+9762503,Girona,16,0,Romero-Hopkins Airlines
+1619041,Dublin,1,0,Moon PLC Airlines
+88138718,Copenhagen,5,0,"Allen, Hall and Vance Airlines"
+31796859,Pretoria,4,0,Reyes Inc Airlines
+49053524,Pretoria,11,0,"Flores, Aguirre and Rodriguez Airlines"
+92193406,Montevideo,8,0,"Adams, Richmond and Flores Airlines"
+23820838,San Jose,10,1,West LLC Airlines
+49140149,Buenos Aires,16,1,White Ltd Airlines
+90765025,Bangkok,11,1,Yang-Weaver Airlines
+70836653,Berlin,12,0,Fritz Group Airlines
+4619703,Burgas,16,1,"Rios, Novak and Duncan Airlines"
+19813554,Buenos Aires,1,0,Bentley-Green Airlines
+79122757,Stockholm,8,0,"Smith, Williams and Mccall Airlines"
+19497044,Hamburg,12,0,"Richardson, Booth and Ruiz Airlines"
+1158946,Doha,7,0,"Hughes, Wallace and Shaffer Airlines"
+91193919,Cracow,16,1,"Smith, Williams and Mccall Airlines"
+90613067,Port of Spain,6,1,Barr Ltd Airlines
+7918384,Stockholm,2,0,"Briggs, Rojas and Mitchell Airlines"
+27241219,Buenos Aires,6,0,"Johnson, Kirby and Robertson Airlines"
+47566668,Copenhagen,3,0,"Meyer, Taylor and Johnson Airlines"
+49320053,Cracow,13,1,"Anderson, Haney and Caldwell Airlines"
+32485059,Bucharest,4,1,Fritz Group Airlines
+68196776,Nairobi,6,1,"Johnson, Kirby and Robertson Airlines"
+26197487,Port Louis,4,0,"Meyer, Taylor and Johnson Airlines"
+87382518,Seoul,7,1,Frederick-Hawkins Airlines
+91150288,Buenos Aires,4,1,"Gould, Decker and Marquez Airlines"
+24213585,Copenhagen,3,1,"Allen, Hall and Vance Airlines"
+2211619,Bornholm,14,0,"Taylor, Clark and Shaffer Airlines"
+74031771,Lisbon,2,0,"Anderson, Haney and Caldwell Airlines"
+38454257,Denver,12,0,Bean PLC Airlines
+7352881,Colombo,6,1,"Wright, Hodges and Baker Airlines"
+40544618,Seoul,3,1,Hunt LLC Airlines
+80573401,Warsaw,3,0,"Rodriguez, Lewis and Blackburn Airlines"
+45371172,Abu Dhabi,4,0,"Gould, Decker and Marquez Airlines"
+80555124,Riga,2,1,Frederick-Hawkins Airlines
+23685284,Tokyo,8,1,Lopez PLC Airlines
+50458981,Amsterdam,12,1,Reyes Inc Airlines
+86563451,Sharm el Sheik,16,1,Hunt LLC Airlines
+96147009,Santo Domingo,9,0,"Simmons, Huerta and Shannon Airlines"
+16272941,Zurich,8,1,Perry-Steele Airlines
+92585782,Rio de Janeiro,3,0,"York, Weiss and Garner Airlines"
+27922484,Athens,7,1,"Murphy, Walker and Huffman Airlines"
+49200409,Mexico City,13,0,"Rodriguez, Warner and Fisher Airlines"
+47151635,Dakar,3,1,Bentley-Green Airlines
+38384646,Munich,12,1,Mccarty Inc Airlines
+3678701,Minsk,6,1,Anderson-Davies Airlines
+80856887,Burgas,1,1,"Bridges, Johnson and Cummings Airlines"
+29535750,San Marino,5,1,Lopez Inc Airlines
+3832783,Barcelona,3,1,Harrison-Johnson Airlines
+81524600,Tunis,13,0,"Craig, Burke and Stark Airlines"
+94772395,Colombo,5,0,"Valdez, Mahoney and Romero Airlines"
+80953951,Cairo,2,0,"Davis, Garcia and Frye Airlines"
+68522056,Amsterdam,14,1,Thomas Group Airlines
+3517338,Montevideo,13,1,Davis-Newman Airlines
+95393957,Girona,7,1,Hunt LLC Airlines
+22252920,San Marino,14,0,"Wright, Hodges and Baker Airlines"
+55350631,Nassau,3,0,Anderson-Davies Airlines
+57203751,Barcelona,11,1,"Valdez, Mahoney and Romero Airlines"
+38921865,Prague,11,0,Glover-Johnson Airlines
+93176675,Teheran,9,0,"Salinas, Rasmussen and Camacho Airlines"
+2741703,Ankara,11,0,"Lawrence, Young and Powell Airlines"
+23800489,Burgas,7,0,Fritz Group Airlines
+99582890,Oslo,1,0,Alvarez-Castillo Airlines
+55147804,Turino,5,0,Mathews Ltd Airlines
+47678330,Abu Dhabi,16,1,Thomas Group Airlines
+50950607,Moscow,14,0,Strickland PLC Airlines
+22876485,Riga,15,1,Bartlett PLC Airlines
+9484818,Tunis,1,0,Heath-Day Airlines
+54829718,Wellington,15,0,Ross-Powers Airlines
+86526227,Jakarta,16,0,Davis-Davis Airlines
+36128143,Boston,6,0,Jones LLC Airlines
+29636914,New York,13,0,"Brady, Mclaughlin and Brown Airlines"
+78483750,Ankara,12,0,Thomas Group Airlines
+60488589,Seville,15,0,Fritz Group Airlines
+27528495,Boston,3,0,"Richardson, Booth and Ruiz Airlines"
+39667304,Pretoria,12,1,Lopez Inc Airlines
+42566670,Tirana,13,1,Williams and Sons Airlines
+71405728,Tirana,13,1,Davis LLC Airlines
+21568893,Cracow,16,1,Perry-Steele Airlines
+7967283,Porto,9,1,"Fleming, Arroyo and Moore Airlines"
+98314805,Port Louis,8,1,"Brady, Mclaughlin and Brown Airlines"
+88066912,Wellington,3,0,Carter Ltd Airlines
+70560008,Zurich,12,0,"Wright, Hodges and Baker Airlines"
+43534975,San Diego,16,1,"White, Koch and Craig Airlines"
+62079754,Teheran,13,0,"Good, Martin and Lloyd Airlines"
+98773787,Tashkent,13,1,Ortiz-Brewer Airlines
+85040564,London,8,0,"Rodriguez, Warner and Fisher Airlines"
+3966174,Alanya,11,0,Romero-Hopkins Airlines
+50259816,Bergamo,3,0,"Rodriguez, Lewis and Blackburn Airlines"
+3871812,Alicante,16,0,Clay Group Airlines
+81107858,New York,6,1,Mccarthy and Sons Airlines
+87141498,Girona,1,0,"Miller, Wilson and Jenkins Airlines"
+98874026,Oslo,16,1,Green Group Airlines
+77480224,Jerusalem,13,0,York-Peterson Airlines
+88265292,Bergamo,14,1,"Fleming, Sanders and Paul Airlines"
+83438745,Tunis,16,1,Rogers-Chandler Airlines
+7545375,Tblisi,12,0,Lopez PLC Airlines
+37186869,Frankfurt,2,0,Bartlett PLC Airlines
+51554941,Kyoto,4,1,Lopez PLC Airlines
+65885017,Dublin,9,1,"Gonzalez, Sutton and Sutton Airlines"
+88961606,Saint Petersburg,2,1,Mosley Inc Airlines
+38402180,Kyoto,7,0,"Nelson, Branch and Mcconnell Airlines"
+23919136,Kampala,4,1,"Meyer, Taylor and Johnson Airlines"
+73535270,Kampala,1,1,"Spencer, Simmons and Collins Airlines"
+83110627,Helsinki,8,0,Ross-Powers Airlines
+48149990,Wellington,2,1,Lucero PLC Airlines
+86826259,Panama City,2,1,"Hale, Morales and Mitchell Airlines"
+87024036,Nassau,11,0,"Rios, Novak and Duncan Airlines"
+40811840,Brasil,6,0,York-Peterson Airlines
+56811124,Hamburg,16,1,Martinez and Sons Airlines
+56871463,Saint Petersburg,11,0,"Perry, Harding and Baker Airlines"
+69887178,Girona,2,0,Clay Group Airlines
+78151055,Hamburg,15,0,Torres Group Airlines
+19940502,Paris,7,0,"Gonzalez, Sutton and Sutton Airlines"
+27981634,Taipei,14,0,Baker LLC Airlines
+25311884,Cardiff,16,1,"Briggs, Rojas and Mitchell Airlines"
+92558168,Barcelona,4,1,Davis LLC Airlines
+58013014,Buenos Aires,15,0,"Gonzalez, Sutton and Sutton Airlines"
+50192465,Seville,1,0,"Nelson, Branch and Mcconnell Airlines"
+16523449,Toronto,3,0,"Freeman, Mcintosh and Thomas Airlines"
+61703353,Hurghada,6,0,"Tran, Mcclure and Alvarez Airlines"
+84541673,Minsk,9,1,Obrien Group Airlines
+37350666,London,7,1,Martin Group Airlines
+70601893,Nairobi,12,1,Yang-Weaver Airlines
+73161752,Lisbon,1,0,"Moore, Snow and Owen Airlines"
+72581018,Sydney,14,1,Davis Inc Airlines
+65026779,Barcelona,11,0,"Fitzgerald, Ball and Hernandez Airlines"
+52022616,Havana,9,0,"Craig, Burke and Stark Airlines"
+95730059,Ljubljana,5,1,Sandoval Group Airlines
+25436167,Teheran,6,0,Nolan Inc Airlines
+57166438,Burgas,4,1,"Meyer, Taylor and Johnson Airlines"
+52462528,Girona,10,0,Nichols PLC Airlines
+92249653,Amsterdam,10,0,"Smith, Williams and Mccall Airlines"
+51576530,Boston,15,0,"Yoder, Robles and Sosa Airlines"
+19066431,Dakar,4,0,"Meyer, Harvey and Johnson Airlines"
+46698148,Varna,3,1,"Spencer, Simmons and Collins Airlines"
+97657354,Port of Spain,9,0,"Perry, Harding and Baker Airlines"
+80082736,Santo Domingo,4,0,Hall Inc Airlines
+34552612,New York,9,0,"Frye, Hanson and Hickman Airlines"
+36986323,Lima,10,1,"Gould, Decker and Marquez Airlines"
+65392249,Bucharest,4,0,Johnson-Mitchell Airlines
+12227969,Buenos Aires,3,0,Jackson Inc Airlines
+26870755,Mexico City,15,0,"Rubio, Burke and Ruiz Airlines"
+65670545,Jakarta,1,0,Torres Group Airlines
+54970274,Moscow,2,1,Bean PLC Airlines
+94995176,Skopje,14,1,Reyes Inc Airlines
+26240558,Rio de Janeiro,7,1,"Carter, Smith and Huffman Airlines"
+12484881,Alicante,2,1,Rose-Thomas Airlines
+94275063,Tashkent,1,0,Mosley Inc Airlines
+32149753,Jakarta,2,1,Davis LLC Airlines
+25576665,Bangkok,2,1,"Mitchell, Vargas and Strickland Airlines"
+54779389,Hurghada,2,1,Yang-Weaver Airlines
+89489369,Podgorica,15,1,Mckinney PLC Airlines
+84397881,Tblisi,13,0,"Pham, Kennedy and Middleton Airlines"
+55798211,Riga,13,0,Moody-Gray Airlines
+1438680,Ljubljana,4,1,Campbell-Smith Airlines
+74800131,Nairobi,1,1,Roberts-Brooks Airlines
+62396844,Paris,5,0,West LLC Airlines
+74593453,Zurich,15,1,Larsen and Sons Airlines
+81807246,Teheran,2,1,Morris-Kaufman Airlines
+90994753,Belgrade,6,1,Nolan Inc Airlines
+39785510,Athens,10,1,Chase Group Airlines
+31385152,Cardiff,3,1,Torres PLC Airlines
+30617308,Prague,16,1,"Nelson, Branch and Mcconnell Airlines"
+40413969,Jakarta,4,1,Hall Inc Airlines
+80129981,San Marino,2,0,Conrad-West Airlines
+58530412,Brasil,7,0,"Parker, Lee and Osborne Airlines"
+4572954,Sydney,5,1,Evans Inc Airlines
+87702279,Paris,15,1,"Spencer, Simmons and Collins Airlines"
+63790511,Burgas,12,1,Taylor LLC Airlines
+59659020,Port of Spain,3,0,"Meyer, Harvey and Johnson Airlines"
+74775293,Seoul,8,0,Heath-Day Airlines
+83275401,Seville,9,1,Fernandez LLC Airlines
+32555042,Bergamo,3,0,Mack Ltd Airlines
+66160953,Jakarta,2,0,"Collins, Edwards and Williams Airlines"
+957380,Jakarta,7,1,Perry-Steele Airlines
+50971084,Helsinki,13,0,"Barnes, Shaw and Wheeler Airlines"
+72263815,Porto,7,1,Clay Group Airlines
+48216289,Alanya,10,1,Thomas Group Airlines
+46493309,Taipei,1,1,Ortiz-Brewer Airlines
+71862767,Boston,12,1,Mckinney PLC Airlines
+51825416,Rio de Janeiro,10,0,Johnson-Price Airlines
+12991419,Ottawa,4,1,Ortiz-Brewer Airlines
+70886993,Seville,16,0,"Fitzgerald, Ball and Hernandez Airlines"
+84394767,Taipei,14,0,Alvarez-Castillo Airlines
+70132694,Berlin,13,0,"Briggs, Rojas and Mitchell Airlines"
+65793022,Marseille,3,0,"Frederick, Dixon and Ramirez Airlines"
+13997595,Brasil,6,0,"Smith, Williams and Mccall Airlines"
+73988236,Kampala,4,1,Mccoy-Martinez Airlines
+15405524,Bangkok,14,0,Davis Inc Airlines
+48659956,Panama City,9,0,"Valdez, Mahoney and Romero Airlines"
+90154928,Bern,15,0,Bradley-Hall Airlines
+76388903,Prague,11,0,"Frye, Hanson and Hickman Airlines"
+76958748,Athens,9,0,"Moore, Snow and Owen Airlines"
+37296339,Bratislava,9,1,Campos LLC Airlines
+76577598,New York,2,1,"Barnes, Shaw and Wheeler Airlines"
+53829078,Turino,13,1,"Miller, Wilson and Jenkins Airlines"
+3587874,Copenhagen,10,1,"Rodriguez, Lewis and Blackburn Airlines"
+91381354,Rome,3,0,"Turner, Banks and Walker Airlines"
+54127234,Nairobi,4,0,"Miller, Wilson and Jenkins Airlines"
+41296868,Taipei,11,1,Ortiz-Brewer Airlines
+48571593,Varna,3,0,Porter LLC Airlines
+75584917,Rio de Janeiro,9,1,Barr Ltd Airlines
+87303506,Washington,13,1,George and Sons Airlines
+39906168,Tunis,6,0,Vasquez and Sons Airlines
+52411144,Tblisi,13,0,"Parker, Lee and Osborne Airlines"
+6696894,Cracow,4,1,Yang-Weaver Airlines
+14137655,Alanya,7,1,Washington-Pierce Airlines
+4992561,Cracow,7,1,Chase Group Airlines
+6358013,Tirana,9,0,"Carter, Smith and Huffman Airlines"
+84451583,Stockholm,13,0,"Good, Martin and Lloyd Airlines"
+82747749,Washington,2,0,Porter LLC Airlines
+96693964,Taipei,4,1,Martin Group Airlines
+12873210,Tirana,14,0,Davis and Sons Airlines
+75772451,Saint Petersburg,12,1,Hancock-Howell Airlines
+77165558,Port of Spain,1,0,Porter LLC Airlines
+28034117,Panama City,14,0,Hendricks-Ortega Airlines
+91847492,San Marino,15,1,Webster-Hayes Airlines
+1049763,Zurich,9,0,Mcconnell Group Airlines
+23146259,Beijing,4,1,Meadows Ltd Airlines
+76591464,Kuala Lumpur,13,0,Ortiz-Brewer Airlines
+12874156,Washington,16,0,Chase Group Airlines
+56501087,Toronto,13,1,Campbell-Smith Airlines
+66255871,Singapore,3,0,"Smith, Williams and Mccall Airlines"
+63995961,Munich,7,1,Johnson-Price Airlines
+27356548,Rome,3,1,Perry-Steele Airlines
+40542096,Rio de Janeiro,7,1,"Gonzalez, Sutton and Sutton Airlines"
+48757034,Melbourne,8,1,Davis-Newman Airlines
+22167606,Varna,14,0,"Moore, Snow and Owen Airlines"
+79418911,Pretoria,14,0,Ford-Mills Airlines
+51691387,Alicante,5,0,Chase Group Airlines
+99635589,Alanya,3,0,Martin Group Airlines
+9391192,Katowice,15,0,"Good, Martin and Lloyd Airlines"
+19877709,Denver,7,1,"Turner, Banks and Walker Airlines"
+22980106,Brasil,6,0,Fritz Group Airlines
+15479792,Stockholm,8,0,Jones LLC Airlines
+29020317,Port Louis,7,1,Evans Inc Airlines
+85501508,Colombo,14,1,"Wright, Hodges and Baker Airlines"
+56675863,Tunis,13,1,"Carroll, Jenkins and Miller Airlines"
+28922063,Doha,10,0,Newman Group Airlines
+372961,Turino,2,0,Porter LLC Airlines
+22712783,Burgas,14,1,"Yoder, Robles and Sosa Airlines"
+10678565,Bornholm,2,0,"Hughes, Delgado and Brooks Airlines"
+49530537,Rome,7,1,Bradley-Hall Airlines
+47609051,Copenhagen,2,0,"Dickson, Rose and Frazier Airlines"
+13426552,Cairo,5,1,Davis-Davis Airlines
+81893416,Bergamo,12,1,Davis and Sons Airlines
+13132712,Montevideo,9,0,"Adams, Richmond and Flores Airlines"
+86349802,Ljubljana,8,1,Jones LLC Airlines
+45994685,Turino,16,0,"Dickson, Rose and Frazier Airlines"
+65570654,New Dheli,10,1,Lopez Inc Airlines
+38326554,Belgrade,13,0,Martinez and Sons Airlines
+56317886,Alicante,13,0,Stafford-Richardson Airlines
+6960179,Barcelona,8,1,Harper LLC Airlines
+49474190,Nairobi,14,0,"Williams, Day and Maldonado Airlines"
+42440772,Port of Spain,10,1,"Collins, Edwards and Williams Airlines"
+31151566,Munich,2,0,Davis Inc Airlines
+21312281,Ankara,5,0,"Flores, Aguirre and Rodriguez Airlines"
+22995582,Rio de Janeiro,9,1,Campos LLC Airlines
+75747084,New Dheli,9,0,Ross-Powers Airlines
+38391811,Montevideo,7,1,"Fitzgerald, Ball and Hernandez Airlines"
+46294982,Taipei,14,1,Williams and Sons Airlines
+73075899,Nassau,8,0,"Baker, Rose and Parrish Airlines"
+60886750,Oslo,14,1,"Hayes, Berry and Williams Airlines"
+4293484,Mexico City,8,1,Hunt LLC Airlines
+70799705,Moscow,13,1,"Anderson, Haney and Caldwell Airlines"
+69161629,Bucharest,10,1,Miller-Lane Airlines
+30149342,Skopje,7,1,Gay-Macdonald Airlines
+82851811,Panama City,4,1,Vasquez and Sons Airlines
+56818079,Fiji,14,1,"Molina, Wong and Sawyer Airlines"
+90962356,Cairo,11,1,Mack Ltd Airlines
+94695496,Paris,7,1,Frederick-Hawkins Airlines
+50439928,Ottawa,16,1,Sutton Ltd Airlines
+40574387,Beijing,16,0,"Hughes, Wallace and Shaffer Airlines"
+81171156,Brasil,7,0,"Davis, Garcia and Frye Airlines"
+53368560,Amsterdam,16,1,"Mitchell, Vargas and Strickland Airlines"
+19791494,Ljubljana,6,0,Moon PLC Airlines
+98805310,Marseille,13,1,Jordan-Curtis Airlines
+22225177,Prague,11,1,Moody-Gray Airlines
+58905906,New Dheli,14,1,Adams-Mccoy Airlines
+42936435,Brussels,15,1,Chase Group Airlines
+37981709,Kampala,5,1,Garcia Ltd Airlines
+25708516,Bern,5,1,"Valdez, Mahoney and Romero Airlines"
+13424428,Turino,9,1,Bartlett PLC Airlines
+2388748,Alanya,11,1,Roberts-Brooks Airlines
+47921849,Hurghada,7,0,White Ltd Airlines
+60701077,Sharm el Sheik,15,0,Robinson-Wolf Airlines
+64330785,Taipei,9,0,White Ltd Airlines
+38130168,Bergamo,6,1,Taylor LLC Airlines
+49301526,Oslo,5,0,"Craig, Burke and Stark Airlines"
+89598955,Prague,16,1,Johnson Ltd Airlines
+79022941,Hurghada,7,0,Davis-Newman Airlines
+4430520,Skopje,6,0,Gay-Macdonald Airlines
+65798584,Jakarta,12,1,Porter LLC Airlines
+83463143,Burgas,4,1,"Pham, Kennedy and Middleton Airlines"
+72456538,Amsterdam,10,1,"Freeman, Mcintosh and Thomas Airlines"
+16718715,New Dheli,4,1,"Richardson, Booth and Ruiz Airlines"
+87098211,Denver,11,1,Johnson-Mitchell Airlines
+4634072,Nairobi,12,0,"Flores, Aguirre and Rodriguez Airlines"
+72284094,Seoul,2,1,Campos LLC Airlines
+82385804,Taipei,6,0,Mathews Ltd Airlines
+18325775,Burgas,14,1,Moody-Gray Airlines
+90518089,Toronto,15,1,Hendricks-Ortega Airlines
+26574851,Nassau,1,1,Ross-Powers Airlines
+10384176,Cairo,9,1,Evans Inc Airlines
+42982074,Brasil,16,0,Baker LLC Airlines
+10935545,Hamburg,7,0,Moody-Gray Airlines
+11700456,Bangkok,10,0,Mccarthy and Sons Airlines
+43295562,San Jose,2,0,Fritz Group Airlines
+79109185,Helsinki,12,1,"Caldwell, Martinez and Lopez Airlines"
+56501438,Barcelona,8,1,Clark LLC Airlines
+22592385,Cairo,1,0,Lopez-Haas Airlines
+53230102,Baku,7,0,"Briggs, Rojas and Mitchell Airlines"
+61303461,Toronto,12,1,Ortiz-Brewer Airlines
+15883049,Montevideo,16,0,Webster-Hayes Airlines
+94139358,Pretoria,7,0,"Yoder, Robles and Sosa Airlines"
+84873606,Bratislava,11,1,Harrison-Johnson Airlines
+63638011,Nassau,6,0,"Jones, Dawson and Cooper Airlines"
+14258619,Canberra,5,0,Taylor LLC Airlines
+50398836,Brasil,16,1,"Carter, Smith and Huffman Airlines"
+88552743,Dakar,14,0,"Parker, Lee and Osborne Airlines"
+7516917,Beijing,2,1,George and Sons Airlines
+14601804,Antalya,6,1,"Hughes, Delgado and Brooks Airlines"
+96439715,Bern,4,1,"Hayes, Berry and Williams Airlines"
+15827395,Fiji,11,1,"Jones, Dawson and Cooper Airlines"
+83916083,Jerusalem,16,0,Bentley-Green Airlines
+88899671,Copenhagen,16,0,Lopez PLC Airlines
+75603014,Beijing,7,0,Hall Inc Airlines
+62204712,Bornholm,7,0,Lopez PLC Airlines
+98841080,Zurich,5,0,Nichols PLC Airlines
+58248652,Bratislava,15,0,Bartlett PLC Airlines
+35534204,Lisbon,7,1,Heath-Day Airlines
+29557288,Washington,12,0,Torres PLC Airlines
+25916836,Athens,12,0,Myers-Briggs Airlines
+99195465,Montevideo,2,1,"Dickson, Rose and Frazier Airlines"
+88138527,Sydney,10,0,Jones LLC Airlines
+60881540,Singapore,8,0,Roberts-Brooks Airlines
+94037647,Nairobi,4,1,Mccarty Inc Airlines
+66019398,Moscow,8,1,Fernandez LLC Airlines
+75493066,London,9,0,"Fleming, Arroyo and Moore Airlines"
+25190519,Tokyo,4,0,"Taylor, Clark and Shaffer Airlines"
+54809000,Bern,9,0,Campos LLC Airlines
+59963851,Marseille,13,1,"White, Koch and Craig Airlines"
+58170373,Belgrade,13,0,Davis-Davis Airlines
+72450260,Antalya,13,1,Ellis LLC Airlines
+29341689,Bogota,15,1,Mcconnell Group Airlines
+56812787,Moscow,6,1,"Collins, Edwards and Williams Airlines"
+3850695,Saint Petersburg,7,0,York-Peterson Airlines
+56859195,Kampala,14,1,House-Bullock Airlines
+48078504,Riga,11,0,"Adams, Richmond and Flores Airlines"
+37485252,Jakarta,2,0,Evans Inc Airlines
+38808524,Ankara,3,0,"Fleming, Arroyo and Moore Airlines"
+55530033,London,7,0,Weeks-Davis Airlines
+10854303,Dakar,6,0,Hancock-Howell Airlines
+65258293,Brasil,2,1,"Johnson, Woods and White Airlines"
+29634484,Prague,7,1,Roberts-Brooks Airlines
+19060392,Minsk,1,0,"Taylor, Clark and Shaffer Airlines"
+61111042,Boston,3,0,"Miller, Maynard and Butler Airlines"
+1861488,Port of Spain,1,0,"Marks, Diaz and Park Airlines"
+4052982,Alanya,10,1,Vasquez and Sons Airlines
+49935509,Cracow,7,1,Chase Group Airlines
+88346847,Bangkok,16,0,Davis LLC Airlines
+17941648,Tirana,11,0,Moody-Gray Airlines
+67391561,Baku,9,1,Stafford-Richardson Airlines
+87583533,Dakar,16,1,Martinez Ltd Airlines
+94355673,Rome,7,0,Campbell-Smith Airlines
+67955275,Katowice,2,1,Stafford-Richardson Airlines
+7169106,Teheran,12,1,Frederick-Hawkins Airlines
+75516116,Dakar,16,1,Rose-Thomas Airlines
+16266179,New Dheli,8,1,"Hayes, Berry and Williams Airlines"
+21119675,Cairo,10,1,Thomas Group Airlines
+18709636,Colombo,1,1,Williams-Gonzales Airlines
+1553376,Stockholm,7,1,"Johnson, Kirby and Robertson Airlines"
+63031904,Alicante,14,1,Martinez and Sons Airlines
+16451889,Wellington,5,1,Conrad-West Airlines
+49024319,Burgas,11,0,"Smith, Williams and Mccall Airlines"
+11470090,Helsinki,13,0,"Nelson, Branch and Mcconnell Airlines"
+67188628,Nairobi,1,1,Moody-Gray Airlines
+27238431,Prague,8,1,Heath-Day Airlines
+36993758,Brussels,5,0,Nichols PLC Airlines
+10976340,Saint Petersburg,7,0,Bradley-Hall Airlines
+32551457,Podgorica,11,0,Hendrix LLC Airlines
+36327263,Antalya,5,0,Johnson-Price Airlines
+975797,Warsaw,12,0,Nichols PLC Airlines
+91648242,Jakarta,7,1,"Soto, Mcgee and Flores Airlines"
+18886764,Hurghada,11,0,Harrison-Johnson Airlines
+25148657,Rio de Janeiro,7,1,"Wright, Hodges and Baker Airlines"
+5549160,Porto,5,0,Adams-Mccoy Airlines
+79901932,Antalya,12,1,Alvarez-Castillo Airlines
+62302432,Riga,2,1,Bartlett PLC Airlines
+92694743,Munich,7,1,Conrad-West Airlines
+63895612,Tirana,13,1,"Fleming, Arroyo and Moore Airlines"
+90308437,Baku,3,1,"Turner, Banks and Walker Airlines"
+56160246,Barcelona,7,1,"Hickman, White and Harding Airlines"
+94901887,Kyoto,11,1,Vasquez and Sons Airlines
+60595720,Bornholm,4,1,Perry-Steele Airlines
+28609773,Ottawa,3,0,Parker LLC Airlines
+99222833,Baku,5,0,Davis-Newman Airlines
+17156202,Dakar,5,0,Rose-Thomas Airlines
+49950694,Ljubljana,4,0,"Frye, Hanson and Hickman Airlines"
+37139940,Reykjiavik,4,1,"Simmons, Huerta and Shannon Airlines"
+48519434,Toronto,15,1,Williams-Gonzales Airlines
+95393384,Tirana,10,0,"Brady, Mclaughlin and Brown Airlines"
+22185211,Alicante,12,1,Keller-Frazier Airlines
+57632773,Alanya,14,0,Hall Inc Airlines
+27664179,Taipei,10,0,Mack Ltd Airlines
+25393170,Sydney,13,1,"Simmons, Huerta and Shannon Airlines"
+87133745,Panama City,11,0,Flynn LLC Airlines
+17413688,Tashkent,10,1,"Lawrence, Young and Powell Airlines"
+79161169,Panama City,3,1,"Spencer, Simmons and Collins Airlines"
+79374569,New Dheli,10,0,Mcconnell Group Airlines
+21969645,Dakar,14,0,Butler and Sons Airlines
+22893871,Melbourne,4,0,Davis-Davis Airlines
+34665596,Canberra,10,0,"Wright, Hodges and Baker Airlines"
+67890989,Stockholm,12,1,Conrad-West Airlines
+16683662,Denver,9,0,Moore-Chung Airlines
+81722679,Seville,5,0,Webb-Bailey Airlines
+81587582,Sydney,1,0,Miller-Lane Airlines
+69535604,Doha,4,1,Rose-Thomas Airlines
+95623542,Port Louis,6,0,"Mitchell, Vargas and Strickland Airlines"
+53907592,Seville,7,1,"Jones, Dawson and Cooper Airlines"
+79525688,Turino,15,0,"Parker, Lee and Osborne Airlines"
+206440,Lisbon,8,0,Barr Ltd Airlines
+42773672,Beijing,7,0,Jackson Inc Airlines
+20903800,Hurghada,12,1,"Frye, Hanson and Hickman Airlines"
+50871155,Bratislava,15,1,"Hayes, Berry and Williams Airlines"
+31460149,Beijing,4,1,"Gonzalez, Sutton and Sutton Airlines"
+6150549,Podgorica,15,0,"Freeman, Mcintosh and Thomas Airlines"
+70045192,San Marino,7,1,"Freeman, Mcintosh and Thomas Airlines"
+81900770,Cracow,9,0,Davis Inc Airlines
+51613198,Sharm el Sheik,3,1,Harper LLC Airlines
+62172370,Belgrade,8,0,Webb-Bailey Airlines
+71088105,Cardiff,9,1,Davis-Newman Airlines
+57067575,Cracow,11,0,Lucero PLC Airlines
+302388,Moscow,4,1,Morris-Kaufman Airlines
+82776763,Sharm el Sheik,7,1,"Miller, Maynard and Butler Airlines"
+95497761,Panama City,10,0,George and Sons Airlines
+93814409,Berlin,1,0,"Adams, Richmond and Flores Airlines"
+49793307,Prague,14,0,Torres PLC Airlines
+88207957,Amsterdam,5,0,"Adams, Richmond and Flores Airlines"
+12768103,Amsterdam,14,0,"Miller, Wilson and Jenkins Airlines"
+96797280,Kuala Lumpur,8,1,Sutton Ltd Airlines
+49978056,Pretoria,7,1,Torres PLC Airlines
+78566668,Athens,7,1,Cox-Mendoza Airlines
+86721240,Hurghada,7,1,"Lawrence, Young and Powell Airlines"
+23144606,Hurghada,3,1,"Collins, Edwards and Williams Airlines"
+31171403,New Dheli,9,0,Keller-Frazier Airlines
+82159955,Amsterdam,8,0,"Gonzalez, Sutton and Sutton Airlines"
+4865254,Nassau,3,0,"Hayes, Berry and Williams Airlines"
+57358765,Hamburg,1,0,Hendricks-Ortega Airlines
+69827174,Munich,3,0,Cox-Mendoza Airlines
+31497862,Tblisi,6,0,"Perry, Harding and Baker Airlines"
+85693890,Santo Domingo,15,0,Fernandez LLC Airlines
+997072,Washington,13,0,Baker LLC Airlines
+87016208,San Diego,8,1,Roberts-Brooks Airlines
+11424840,Tashkent,14,1,"Valdez, Mahoney and Romero Airlines"
+39085573,Washington,13,1,Yang-Weaver Airlines
+18093674,Hamburg,11,1,Vasquez and Sons Airlines
+90775000,San Diego,7,1,"Howard, Robertson and Hamilton Airlines"
+92711341,Toronto,15,0,Campbell-Smith Airlines
+72875780,Athens,13,0,Nolan Inc Airlines
+77337320,Panama City,10,1,Romero-Hopkins Airlines
+55823296,Tunis,11,0,Stafford-Richardson Airlines
+51203641,Tunis,16,0,Chase Group Airlines
+44831813,Bratislava,1,1,Adams-Mccoy Airlines
+64872025,Madrid,9,0,"Elliott, Lopez and Luna Airlines"
+85691155,Mexico City,12,1,"Brady, Mclaughlin and Brown Airlines"
+39270375,Nairobi,3,1,Strickland PLC Airlines
+47015388,Antalya,7,0,"Meyer, Taylor and Johnson Airlines"
+97305545,Rome,16,1,Clark LLC Airlines
+47023451,Melbourne,9,1,"Molina, Wong and Sawyer Airlines"
+45308604,San Diego,15,0,"Parker, Lee and Osborne Airlines"
+19106427,Lima,15,0,Webster-Hayes Airlines
+78039513,Tokyo,2,1,"Adams, Richmond and Flores Airlines"
+99895846,Barcelona,11,0,Stafford-Richardson Airlines
+65562765,Bratislava,11,1,Baker LLC Airlines
+61498952,Nairobi,3,0,"Williams, Day and Maldonado Airlines"
+73772828,Dublin,14,1,"Barnes, Shaw and Wheeler Airlines"
+7021794,Tblisi,7,0,Ross-Powers Airlines
+31574617,Bergamo,2,0,Davis Inc Airlines
+37629854,Reykjiavik,5,0,York-Peterson Airlines
+46258168,Denver,5,0,"Pham, Kennedy and Middleton Airlines"
+84089625,Madrid,4,1,"Barnes, Shaw and Wheeler Airlines"
+69710148,Alanya,1,0,"Yoder, Robles and Sosa Airlines"
+99868604,London,15,0,Anderson-Davies Airlines
+74618026,Teheran,3,1,Baker LLC Airlines
+8971852,Port Louis,13,1,Flynn LLC Airlines
+34715277,Budapest,7,1,Williams LLC Airlines
+74964987,Rome,16,1,Jackson Inc Airlines
+23030008,Nassau,7,0,"Murphy, Walker and Huffman Airlines"
+46982551,Brasil,16,1,"Gonzalez, Sutton and Sutton Airlines"
+84445292,Brasil,1,0,Vasquez and Sons Airlines
+80066798,Denver,16,1,Webster-Hayes Airlines
+70804805,Kyoto,1,0,"Baker, Rose and Parrish Airlines"
+65660881,Lisbon,6,1,Keller-Frazier Airlines
+34679081,Toronto,2,0,Thomas Group Airlines
+28218913,Nassau,16,0,"Salinas, Rasmussen and Camacho Airlines"
+59878032,Prague,12,0,"Anderson, Haney and Caldwell Airlines"
+85030893,Antalya,4,0,Morris-Kaufman Airlines
+25323207,Stockholm,9,1,"Rodriguez, Lewis and Blackburn Airlines"
+32870978,Panama City,2,1,Adkins-Rodriguez Airlines
+78900592,Bucharest,11,1,"Miller, Maynard and Butler Airlines"
+28637837,Amsterdam,11,1,Rhodes PLC Airlines
+16581845,Abu Dhabi,5,0,"Valdez, Mahoney and Romero Airlines"
+77158666,Santo Domingo,12,1,"Freeman, Mcintosh and Thomas Airlines"
+80819783,Bern,7,0,Glover-Johnson Airlines
+13817923,Burgas,11,0,"Johnson, Kirby and Robertson Airlines"
+90009822,Munich,8,0,"Curtis, Johnson and Young Airlines"
+10385814,Zurich,6,1,Newman Group Airlines
+36774272,Alicante,8,1,Hancock-Howell Airlines
+89607176,Taipei,15,1,Parker LLC Airlines
+26605586,Zurich,1,0,Mckinney PLC Airlines
+25114591,Turino,9,1,Bartlett PLC Airlines
+32753011,Riga,11,0,Morales-Thompson Airlines
+80081562,Ljubljana,2,0,Strickland PLC Airlines
+78376663,Bratislava,14,0,"Spencer, Simmons and Collins Airlines"
+65448991,Tunis,10,1,"Gould, Decker and Marquez Airlines"
+6079246,Amsterdam,13,0,Thomas Group Airlines
+98031184,Wellington,9,1,"Anderson, Haney and Caldwell Airlines"
+71260068,Nassau,7,0,"Wright, Hodges and Baker Airlines"
+61376328,Tblisi,2,1,Green Group Airlines
+79697415,Ljubljana,5,1,"Rios, Novak and Duncan Airlines"
+78447868,San Jose,2,0,"Turner, Banks and Walker Airlines"
+97352990,Barcelona,2,0,Torres PLC Airlines
+23304413,Frankfurt,16,1,"White, Koch and Craig Airlines"
+59839415,Katowice,2,1,Ross-Powers Airlines
+50791071,Varna,7,0,"Barnes, Shaw and Wheeler Airlines"
+21862496,Jerusalem,9,1,"Yoder, Robles and Sosa Airlines"
+82279929,Madrid,12,0,Clark LLC Airlines
+11471554,Bucharest,16,1,Clark LLC Airlines
+72245910,Doha,8,0,"Rios, Novak and Duncan Airlines"
+21472091,Fiji,3,1,"Rodriguez, Warner and Fisher Airlines"
+12525133,Rio de Janeiro,13,1,Jones LLC Airlines
+25342543,Panama City,7,1,"Smith, Williams and Mccall Airlines"
+77733702,Brussels,4,1,"Lawrence, Young and Powell Airlines"
+68826468,Hurghada,11,0,"Freeman, Mcintosh and Thomas Airlines"
+76061226,Barcelona,15,1,Morales-Thompson Airlines
+9625754,Colombo,7,1,"Yoder, Robles and Sosa Airlines"
+66598862,Tokyo,12,1,"Campbell, Peters and Mccoy Airlines"
+4932932,Montevideo,8,0,Nolan Inc Airlines
+26015576,Wellington,7,0,Taylor LLC Airlines
+81211111,Canberra,10,1,"Spencer, Simmons and Collins Airlines"
+92706651,Budapest,16,0,"Mitchell, Vargas and Strickland Airlines"
+45692703,Doha,5,0,George and Sons Airlines
+22756169,Kyoto,9,0,"Gould, Decker and Marquez Airlines"
+91118912,Marseille,10,0,Mcconnell Group Airlines
+11766889,Antalya,7,0,Williams-Gonzales Airlines
+18551891,Burgas,13,1,"Taylor, Baldwin and Hernandez Airlines"
+1142570,Tirana,9,0,Hall Inc Airlines
+23608054,Baku,5,0,"Fleming, Arroyo and Moore Airlines"
+3995464,Dublin,8,0,"Davis, Garcia and Frye Airlines"
+62789639,Nairobi,10,0,White Ltd Airlines
+26254845,Port of Spain,13,0,Cox-Mendoza Airlines
+87592627,Brasil,14,1,"Baker, Rose and Parrish Airlines"
+58203996,Port of Spain,6,1,"Carter, Smith and Huffman Airlines"
+60197863,San Diego,3,1,Chase Group Airlines
+85258556,Tashkent,15,1,Davis and Sons Airlines
+74641109,Kampala,9,0,Davis Inc Airlines
+40663883,Seoul,13,1,"Simmons, Huerta and Shannon Airlines"
+39482563,Tblisi,14,0,Strickland PLC Airlines
+67451449,Minsk,10,1,"Howard, Robertson and Hamilton Airlines"
+21148781,Taipei,10,1,"Meyer, Taylor and Johnson Airlines"
+45411632,Berlin,15,1,Butler-Hudson Airlines
+86423397,Havana,10,1,Rose-Thomas Airlines
+98724987,Montevideo,16,0,Taylor LLC Airlines
+37501150,Kuala Lumpur,16,0,Mckinney PLC Airlines
+45384981,Zurich,4,1,Adkins-Rodriguez Airlines
+31486002,Singapore,2,0,Thomas Group Airlines
+84063984,Bucharest,14,0,Campbell-Smith Airlines
+39141958,Lisbon,11,1,Larsen and Sons Airlines
+51453534,Berlin,4,0,George and Sons Airlines
+38258541,Moscow,16,0,Newman Group Airlines
+98672516,New Dheli,7,0,Butler and Sons Airlines
+69511165,Amsterdam,14,0,"Fleming, Arroyo and Moore Airlines"
+98520183,Teheran,1,1,Bradley-Hall Airlines
+26397443,Canberra,15,1,"Elliott, Lopez and Luna Airlines"
+88350400,Cardiff,12,1,Cox-Mendoza Airlines
+11461104,Saint Petersburg,11,0,"Curtis, Johnson and Young Airlines"
+28975854,Rome,12,1,"Fleming, Arroyo and Moore Airlines"
+20474997,Bucharest,15,0,"Hayes, Berry and Williams Airlines"
+56310788,Hamburg,1,1,Hall Inc Airlines
+98576357,Panama City,13,0,"Rubio, Burke and Ruiz Airlines"
+21483455,Toronto,13,0,Moon PLC Airlines
+34115619,Tirana,15,1,"Hayes, Berry and Williams Airlines"
+13098032,Stockholm,15,0,"Moore, Snow and Owen Airlines"
+42165903,Katowice,15,1,"Swanson, Avery and Navarro Airlines"
+21221385,New Dheli,13,1,Moon PLC Airlines
+61685048,Brasil,9,0,Williams-Gonzales Airlines
+75649364,Porto,11,1,"Wright, Hodges and Baker Airlines"
+18963083,Belgrade,10,0,Campbell-Smith Airlines
+63592535,Munich,5,0,"Molina, Wong and Sawyer Airlines"
+47738973,London,2,0,"Parker, Lee and Osborne Airlines"
+15222343,New York,14,0,Chase Group Airlines
+1017403,Podgorica,6,0,Hendricks-Ortega Airlines
+86348362,Nairobi,4,1,Glover-Johnson Airlines
+18531794,Toronto,2,0,Newman Group Airlines
+41436851,Rome,14,0,"Brady, Mclaughlin and Brown Airlines"
+31522793,Colombo,11,1,"Williams, Day and Maldonado Airlines"
+49994100,Kuala Lumpur,10,0,"Fitzgerald, Ball and Hernandez Airlines"
+29951895,Skopje,4,1,"Hughes, Wallace and Shaffer Airlines"
+2189185,Bogota,8,0,"Flores, Aguirre and Rodriguez Airlines"
+92161467,Bogota,2,1,Stafford-Richardson Airlines
+46870209,Marseille,16,0,"Meyer, Taylor and Johnson Airlines"
+28723783,Reykjiavik,9,1,Campos LLC Airlines
+2930336,Marseille,8,1,Torres PLC Airlines
+60705389,New Dheli,5,0,"Yoder, Robles and Sosa Airlines"
+11187486,Panama City,7,0,Mack Ltd Airlines
+73060178,Cairo,11,1,"Meyer, Harvey and Johnson Airlines"
+47871588,Hurghada,7,0,Bartlett PLC Airlines
+81665402,Bergamo,15,0,"Gould, Decker and Marquez Airlines"
+38044892,Brussels,9,0,"Taylor, Baldwin and Hernandez Airlines"
+77481993,Melbourne,10,0,"Yoder, Robles and Sosa Airlines"
+25386721,Belgrade,1,1,Ortiz-Brewer Airlines
+29049455,Riga,14,1,York-Peterson Airlines
+59894674,Seville,13,0,Meadows Ltd Airlines
+26069913,Tashkent,10,0,"Marks, Diaz and Park Airlines"
+68491420,Beijing,5,0,Reyes Inc Airlines
+12198801,Kuala Lumpur,5,0,Webb-Bailey Airlines
+82186234,Boston,4,0,Mccarty Inc Airlines
+21304415,Saint Petersburg,4,1,"Anderson, Haney and Caldwell Airlines"
+18471700,Paris,7,0,Baker LLC Airlines
+29506491,Bornholm,7,0,York-Peterson Airlines
+65388136,Frankfurt,7,1,Davis Inc Airlines
+93594554,Ottawa,2,1,"Pham, Kennedy and Middleton Airlines"
+64700229,Helsinki,7,0,"Curtis, Johnson and Young Airlines"
+11490685,Port Louis,11,0,"Richardson, Booth and Ruiz Airlines"
+62650793,Kuala Lumpur,13,1,Thomas Group Airlines
+14500909,Pretoria,7,0,Nolan Inc Airlines
+66075332,Panama City,8,1,George and Sons Airlines
+44476762,Reykjiavik,14,1,Johnson-Mitchell Airlines
+50474172,Nairobi,12,0,Clay Group Airlines
+99149000,Canberra,5,1,"Murphy, Walker and Huffman Airlines"
+21777486,Bornholm,8,1,"Frye, Hanson and Hickman Airlines"
+97185192,Hamburg,8,1,Hicks-Smith Airlines
+18504224,Belgrade,7,0,"Johnson, Kirby and Robertson Airlines"
+12447701,Berlin,8,1,Parker LLC Airlines
+33954905,Panama City,6,0,"Anderson, Haney and Caldwell Airlines"
+1913927,Kuala Lumpur,9,1,"Davis, Garcia and Frye Airlines"
+31841399,Melbourne,11,1,Mccarthy and Sons Airlines
+10264805,Buenos Aires,9,0,Clay Group Airlines
+91683984,Bergamo,6,1,Martinez Ltd Airlines
+48877831,Moscow,8,1,Weeks-Davis Airlines
+73460909,Dublin,8,0,"Jones, Dawson and Cooper Airlines"
+79471220,Ankara,13,0,"Hernandez, Gonzalez and Schaefer Airlines"
+14221477,Bergamo,3,0,"Nelson, Branch and Mcconnell Airlines"
+42108863,Cairo,2,0,Myers-Briggs Airlines
+14461538,Beijing,9,1,Campbell-Smith Airlines
+86820929,Turino,1,0,"Salinas, Rasmussen and Camacho Airlines"
+20507237,Denver,16,0,"Caldwell, Martinez and Lopez Airlines"
+86495448,Alicante,9,0,Mccoy-Martinez Airlines
+38606328,Brussels,2,1,Hendrix LLC Airlines
+6830274,Lisbon,12,0,"Valdez, Mahoney and Romero Airlines"
+88991030,Budapest,5,1,Nichols PLC Airlines
+1471687,San Diego,13,1,Johnson-Price Airlines
+6191870,Amsterdam,15,0,"Miller, Maynard and Butler Airlines"
+8354884,Toronto,16,1,Carson PLC Airlines
+51372576,Pretoria,7,1,"Barnes, Shaw and Wheeler Airlines"
+9651548,Bern,4,1,Sutton Ltd Airlines
+59353300,Paris,12,0,"Davis, Garcia and Frye Airlines"
+64442495,Girona,12,0,Lopez PLC Airlines
+17115865,New Dheli,2,0,Larsen and Sons Airlines
+9202931,Katowice,14,1,"Salinas, Rasmussen and Camacho Airlines"
+51520380,Dublin,9,1,Rogers-Chandler Airlines
+17921985,Podgorica,10,1,Martin Group Airlines
+52405464,Varna,11,0,"Meyer, Harvey and Johnson Airlines"
+757362,Hurghada,8,0,"Rodriguez, Warner and Fisher Airlines"
+48104609,Jerusalem,7,0,"Carroll, Jenkins and Miller Airlines"
+4259336,Rio de Janeiro,1,0,Gay-Macdonald Airlines
+25524215,Bratislava,8,1,Johnson-Price Airlines
+93015394,Bratislava,3,0,Ortiz-Brewer Airlines
+53759238,Copenhagen,13,1,Moore-Chung Airlines
+26095387,Alanya,6,1,Bentley-Green Airlines
+77805683,Panama City,4,0,"Turner, Banks and Walker Airlines"
+2237336,Mexico City,3,0,Reyes Inc Airlines
+4610588,Beijing,14,1,Yang-Weaver Airlines
+19117782,Dublin,5,0,Bentley-Green Airlines
+88630021,Doha,3,1,George and Sons Airlines
+21139413,Skopje,13,0,"Dickson, Rose and Frazier Airlines"
+31161749,Canberra,6,0,"Carroll, Jenkins and Miller Airlines"
+74045235,Bucharest,3,1,Mccarthy and Sons Airlines
+11694793,Denver,14,0,Martinez and Sons Airlines
+91727756,Bergamo,12,1,Lopez-Haas Airlines
+85899407,Antalya,5,1,"Pham, Kennedy and Middleton Airlines"
+41097151,Bogota,3,1,"Taylor, Hatfield and Hogan Airlines"
+84540683,Fiji,12,1,Torres Group Airlines
+48890083,Paris,6,0,Butler-Hudson Airlines
+70070163,Katowice,2,0,Moon PLC Airlines
+25053654,Boston,8,1,Bean PLC Airlines
+1854220,Alanya,6,0,Garcia Ltd Airlines
+9400825,Rome,10,0,"Hale, Morales and Mitchell Airlines"
+45184840,Denver,12,0,Davis Inc Airlines
+28019558,Copenhagen,2,0,Keller-Frazier Airlines
+19714417,London,4,0,Meadows Ltd Airlines
+71081199,Reykjiavik,13,0,Parker LLC Airlines
+61987746,Port of Spain,5,0,"Bridges, Johnson and Cummings Airlines"
+87611960,Ottawa,3,1,"Fleming, Sanders and Paul Airlines"
+34036488,San Jose,1,1,"Moore, Snow and Owen Airlines"
+91841667,Bornholm,4,1,Rose-Thomas Airlines
+40826134,Saint Petersburg,4,1,Martinez Ltd Airlines
+5190379,Madrid,14,0,Mccarty Inc Airlines
+39680259,Hamburg,3,0,"Rodriguez, Warner and Fisher Airlines"
+80164418,Burgas,10,0,Mckinney PLC Airlines
+62849319,Brussels,15,1,"Gonzalez, Sutton and Sutton Airlines"
+71000343,Panama City,16,1,Perry-Steele Airlines
+65033524,Bern,6,0,Moon PLC Airlines
+46941220,Bergamo,11,0,"Good, Martin and Lloyd Airlines"
+18217193,Abu Dhabi,1,0,Cox-Mendoza Airlines
+84243652,Hamburg,5,1,Webster-Hayes Airlines
+88573670,Bratislava,12,1,Ford-Mills Airlines
+84218582,Ottawa,14,0,Vasquez and Sons Airlines
+72323649,Madrid,5,0,Davis LLC Airlines
+84049421,Reykjiavik,14,0,Cox-Mendoza Airlines
+54677807,Port Louis,14,1,White Ltd Airlines
+64214689,Tunis,5,0,Barr Ltd Airlines
+1950991,Jakarta,14,0,"Pham, Kennedy and Middleton Airlines"
+27830864,New York,7,0,Lopez-Haas Airlines
+27193204,Port of Spain,15,1,"Smith, Williams and Mccall Airlines"
+67225897,Rome,8,1,Moody-Gray Airlines
+39046338,Saint Petersburg,3,0,"Hickman, White and Harding Airlines"
+73897446,London,3,1,"Smith, Williams and Mccall Airlines"
+55970747,Barcelona,11,1,White Ltd Airlines
+25085495,Bratislava,4,0,Porter LLC Airlines
+51027469,Lisbon,15,1,Hunt LLC Airlines
+90268021,Ankara,15,0,Taylor LLC Airlines
+82756611,Nairobi,5,1,"Pham, Kennedy and Middleton Airlines"
+22393418,Dublin,8,1,Nolan Inc Airlines
+97084860,Abu Dhabi,10,0,Stafford-Richardson Airlines
+90076947,Cairo,6,0,Clay Group Airlines
+39879776,Girona,14,0,Mack Ltd Airlines
+48236164,Seoul,7,0,Harper LLC Airlines
+81287987,Paris,5,1,"Campbell, Peters and Mccoy Airlines"
+43418244,Bornholm,5,1,Mack Ltd Airlines
+74428588,Mexico City,3,1,Jackson Inc Airlines
+75125455,Copenhagen,8,1,"Taylor, Hatfield and Hogan Airlines"
+12554584,Tunis,2,0,Bartlett PLC Airlines
+76414855,Moscow,11,1,"Salinas, Rasmussen and Camacho Airlines"
+6142605,Brasil,1,0,"White, Koch and Craig Airlines"
+24095082,Varna,14,1,Myers-Briggs Airlines
+36771684,Brussels,4,1,Parker LLC Airlines
+69418808,Reykjiavik,4,0,"Valdez, Mahoney and Romero Airlines"
+59237174,Ankara,14,0,Bradley-Hall Airlines
+12871285,Kyoto,14,1,"Reyes, Harvey and Chavez Airlines"
+26248929,Taipei,10,1,Torres Group Airlines
+85588691,San Jose,9,1,"Lawrence, Young and Powell Airlines"
+39948014,Cracow,12,0,"Valdez, Mahoney and Romero Airlines"
+72482995,Hamburg,5,1,Alvarez-Castillo Airlines
+91077837,Amsterdam,3,0,"Carroll, Jenkins and Miller Airlines"
+48383400,Lisbon,4,1,"Fleming, Arroyo and Moore Airlines"
+77598325,Lima,6,0,Taylor LLC Airlines
+49157536,Brussels,9,0,"Frye, Hanson and Hickman Airlines"
+17937962,Kuala Lumpur,7,1,Harper LLC Airlines
+6457853,Bangkok,12,1,"Howard, Robertson and Hamilton Airlines"
+98388608,Colombo,14,0,"Murphy, Walker and Huffman Airlines"
+18396355,Bangkok,2,1,"Bridges, Johnson and Cummings Airlines"
+76057045,Colombo,6,0,Johnson Ltd Airlines
+12103669,Girona,9,0,"Rubio, Burke and Ruiz Airlines"
+37889241,Helsinki,10,0,Mccarty Inc Airlines
+53957061,Cairo,11,1,"Bridges, Johnson and Cummings Airlines"
+92868786,Santo Domingo,5,0,"Miller, Maynard and Butler Airlines"
+838993,Oslo,3,1,Strickland PLC Airlines
+64219264,Alicante,16,1,Barr Ltd Airlines
+54375901,Warsaw,16,1,Lucero PLC Airlines
+22324887,New York,15,1,"Moore, Snow and Owen Airlines"
+6836061,Fiji,14,0,Green Group Airlines
+70649307,Brussels,12,0,Glover-Johnson Airlines
+83338847,Kuala Lumpur,10,1,Davis Inc Airlines
+54763401,Madrid,1,0,Evans Inc Airlines
+96249826,Hamburg,4,1,"Collins, Edwards and Williams Airlines"
+50567393,Abu Dhabi,9,0,"Murphy, Walker and Huffman Airlines"
+17166997,London,5,1,"Curtis, Johnson and Young Airlines"
+66176015,Jakarta,5,1,Rose-Thomas Airlines
+39092007,Beijing,14,0,"Davis, Garcia and Frye Airlines"
+4585718,Bogota,15,0,"White, Koch and Craig Airlines"
+22027665,Boston,1,0,"Dickson, Rose and Frazier Airlines"
+96627570,Bangkok,12,1,Baker LLC Airlines
+122047,Washington,5,1,Torres PLC Airlines
+55716062,Helsinki,8,0,Meadows Ltd Airlines
+66086734,Nairobi,15,0,Davis-Davis Airlines
+40209340,Katowice,1,0,"Simmons, Huerta and Shannon Airlines"
+48374200,Hurghada,5,0,"Pham, Kennedy and Middleton Airlines"
+94046083,Toronto,13,0,Jordan-Curtis Airlines
+35575450,Colombo,12,1,"Marks, Diaz and Park Airlines"
+3683651,Buenos Aires,7,0,Baker-Owen Airlines
+23940468,Helsinki,3,0,"Rios, Novak and Duncan Airlines"
+21880117,Teheran,12,0,Rogers-Chandler Airlines
+8060303,Antalya,2,1,"Dickson, Rose and Frazier Airlines"
+95599953,Barcelona,8,1,Bradley-Hall Airlines
+99090609,Kuala Lumpur,9,1,Gay-Macdonald Airlines
+76216732,Cairo,8,0,"Johnson, Wright and Rodriguez Airlines"
+86494052,Paris,15,0,Webb-Bailey Airlines
+68405854,Washington,9,0,Obrien Group Airlines
+56958294,Varna,13,0,Morales-Thompson Airlines
+69373,Seville,1,1,Davis LLC Airlines
+88599748,Kuala Lumpur,5,1,Hall Inc Airlines
+23991385,Bern,8,0,Hunt LLC Airlines
+11617129,Madrid,16,1,"Good, Martin and Lloyd Airlines"
+1279436,Bratislava,1,1,"Parker, Lee and Osborne Airlines"
+54798403,Tirana,7,0,"Yoder, Robles and Sosa Airlines"
+39353405,Tirana,9,1,Glover-Johnson Airlines
+66289203,Port of Spain,5,1,"Hughes, Wallace and Shaffer Airlines"
+942836,Belgrade,14,0,Sutton Ltd Airlines
+30673670,Bogota,9,0,"Moore, Snow and Owen Airlines"
+88518534,Saint Petersburg,15,0,"Frederick, Dixon and Ramirez Airlines"
+42754787,Cairo,10,0,Clark and Sons Airlines
+94505900,Boston,1,0,Martinez and Sons Airlines
