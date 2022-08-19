@@ -1,0 +1,114 @@
+/* Query 1 */
+SELECT 
+	NON EMPTY {[Measures].[Average overall grade]} ON COLUMNS, 
+	NON EMPTY {ORDER(FILTER([Flight].[Destination].[Destination].ALLMEMBERS, [Measures].[Average overall grade] > 7.5), 
+	[Measures].[Average overall grade],DESC)} ON ROWS 
+		FROM [DW Airport]
+		WHERE ([ID Boarding Date].[Boarding date hierarchy].[Year].&[2020].&[Summer Holiday].&[August].&[16] : 
+		[ID Boarding Date].[Boarding date hierarchy].[Year].&[2020].&[Summer Holiday].&[September].[14]);
+
+
+/* Query 2 */
+WITH 
+	MEMBER [ID Boarding Date].[Month Name].[Change AM %] AS '([ID Boarding Date].[Month Name].[May] - [ID Boarding Date].[Month Name].[April])',
+	FORMAT_STRING = '0.00 %'
+	MEMBER [ID Boarding Date].[Month Name].[Change MJ %] AS '([ID Boarding Date].[Month Name].[June] - [ID Boarding Date].[Month Name].[May])',
+	FORMAT_STRING = '0.00 %'
+	MEMBER [ID Boarding Date].[Month Name].[Change JJ %] AS '([ID Boarding Date].[Month Name].[July] - [ID Boarding Date].[Month Name].[June])',
+	FORMAT_STRING = '0.00 %'
+	MEMBER [ID Boarding Date].[Month Name].[Change JA %] AS '([ID Boarding Date].[Month Name].[August] - [ID Boarding Date].[Month Name].[July])',
+	FORMAT_STRING = '0.00 %'
+SELECT NON EMPTY 
+	{[Measures].[Average overall grade]} ON ROWS, 
+	{[ID Boarding Date].[Month Name].[April],[ID Boarding Date].[Month Name].[Change AM %], 
+	[ID Boarding Date].[Month Name].[May],[ID Boarding Date].[Month Name].[Change MJ %] ,
+	[ID Boarding Date].[Month Name].[June], [ID Boarding Date].[Month Name].[Change JJ %], 
+	[ID Boarding Date].[Month Name].[July], [ID Boarding Date].[Month Name].[Change JA %], 
+	[ID Boarding Date].[Month Name].[August]} ON COLUMNS
+		FROM [DW Airport]
+		WHERE [ID Boarding Date].[Boarding date hierarchy].[Year].&[2018];
+
+
+/* Query 3 */
+SELECT 
+	NON EMPTY 
+	{[Measures].[Boarding failure percentage], [Measures].[Average dutyfree evaluation], 
+	[Measures].[Average staff evaluation], [Measures].[Average time evaluation] } ON COLUMNS,
+	{[Junk].[On Board].[All], [Junk].[On Board].[False]} ON ROWS
+		FROM [DW Airport];
+
+
+/* Query 4 */
+SELECT {[Measures].[Average grade], [Measures].[Average staff evaluation]} ON COLUMNS, 
+	NON EMPTY 
+	{(TOPCOUNT([Employee].[Position].[Position].ALLMEMBERS, 3, [Measures].[Average grade]))} ON ROWS 
+		FROM [DW Airport] 
+		WHERE ([ID Boarding Date].[Boarding date hierarchy].[Year].&[2020].&[Summer Holiday].&[June]);
+
+
+/* Query 5 */
+WITH 
+	MEMBER [Previous year average grade] AS '(PARALLELPERIOD([FLIGHT BOARDING - ID Flight - ID Date].[Flight boarding date hierarchy].[Year],
+	1, [FLIGHT BOARDING - ID Flight - ID Date].[Flight boarding date hierarchy].CurrentMember), [Measures].[Average grade])'
+SELECT {[Measures].[Average grade], [Previous year average grade]} ON COLUMNS,  
+	NON EMPTY 
+	{([FLIGHT BOARDING - ID Flight - ID Date].[Year].[2019], 
+	TOPCOUNT(([Airlines].[Country].[Country].ALLMEMBERS * [Airlines].[Airline Name].[Airline Name].ALLMEMBERS),
+	3, ([FLIGHT BOARDING - ID Flight - ID Date].[Year].[2019], [Measures].[Average grade])))} ON ROWS 
+		FROM [DW Airport] 
+		WHERE ([FLIGHT BOARDING - ID Flight - ID Date].[Season].[Summer Holiday]);
+
+
+/*	Query 6
+	Show all weekdays days with the percentage ratio of delayed flights.
+	Measure: Delayed flights percentage
+	Dimension:  Date (dimension attribute: Date.Day_name) */
+
+WITH 
+	SET [Delayed count] AS 'COUNT(FILTER(, [FLIGHT BOARDING].[Possible Delay] < [FLIGHT BOARDING].[Actual Dealy]))'
+	MEMBER [Measures].[Delayed %] AS '([Delayed count]/[Measures].[FLIGHT BOARDING Count])',
+FORMAT_STRING = '0.00 %'
+
+SELECT [Measures].[Delayed %] ON COLUMNS,
+	NON EMPTY [FLIGHT BOARDING - ID Flight - ID Date].[Day Name].Children ON ROWS
+		FROM [DW airport]
+			WHERE [FLIGHT BOARDING - ID Flight - ID Date].[Year].[2020];
+
+
+/*Query 7*/
+SELECT {[Measures].[Average whole boarding time], [Measures].[Average unitary boarding time]} ON COLUMNS,
+	NON EMPTY
+		{(BOTTOMCOUNT([Airlines].[Airline Name].[Airline Name].ALLMEMBERS, 7, [Measures].[Average whole boarding time]))} ON ROWS
+			FROM [DW Airport];
+
+
+/*	Query 8 */
+SELECT {[Measures].[Average whole boarding time], [Measures].[Average unitary boarding time], [Measures].[Average grade]} ON COLUMNS,
+	NON EMPTY  ([Flight].[Flight Length].[Flight Length]) ON ROWS
+		FROM [DW Airport];
+
+
+/* Query 9 */
+SELECT 
+	NON EMPTY {[Measures].[Average unitary boarding time], [Measures].[Average staff evaluation]} ON COLUMNS, 
+	NON EMPTY {[Airlines].[Airline Name].Members * [Employee].[Working Experience].[Working Experience].Members} ON ROWS 
+		FROM [DW Airport];
+
+
+/* Query 10 */
+SELECT 
+	NON EMPTY {[Measures].[Average time evaluation], [Measures].[Average unitary boarding time]} ON COLUMNS, 
+	NON EMPTY {[Employee].[Nationality].[All], [Employee].[Nationality].&[Polish]} ON ROWS 
+		FROM [DW Airport];
+
+
+
+/*checking the KPI*/
+WITH 
+	MEMBER [Measures].[Previous value] AS '(PARALLELPERIOD([ID Boarding Date].[Boarding date hierarchy].[Year],
+	1, [ID Boarding Date].[Boarding date hierarchy].CurrentMember), [Measures].[Average overall grade])'
+SELECT 
+	{[Measures].[Previous value], [Measures].[Average overall grade]} ON COLUMNS,
+	{[ID Boarding Date].[Year]} ON ROWS 
+	FROM [DW Airport]
+	WHERE ([ID Boarding Date].[Boarding date hierarchy].[Year].&[2018]);
